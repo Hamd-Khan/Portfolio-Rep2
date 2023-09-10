@@ -7,8 +7,11 @@ Lotion is a simple yet powerful notes app built using HTML, CSS, and React. It a
 ### Features
 
 Intuitive Interface: Lotion offers a clean and user-friendly interface, inspired by Notion, making it easy to create and organize your notes.
+
 Create and Edit Notes: You can easily create new notes and edit existing ones, just like using a traditional text editor.
+
 Rich Text Formatting: Lotion supports rich text formatting, allowing you to customize your notes with headings, lists, and more.
+
 Save and Retrieve: Your notes are automatically saved in your browser's local storage, so you never have to worry about losing your work.
 
 
