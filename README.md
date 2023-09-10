@@ -1,12 +1,10 @@
-# Portfolio-Rep2
 
-
-#Lotion - A Notion-inspired Notes App
+# Lotion - A Notion-inspired Notes App
 
 
 Lotion is a simple yet powerful notes app built using HTML, CSS, and React. It allows you to create, edit, and organize your notes in a clean and intuitive interface, inspired by the popular Notion app. Lotion saves your notes directly in your browser's local storage, ensuring your data is always accessible.
 
-###Features
+### Features
 
 Intuitive Interface: Lotion offers a clean and user-friendly interface, inspired by Notion, making it easy to create and organize your notes.
 Create and Edit Notes: You can easily create new notes and edit existing ones, just like using a traditional text editor.
@@ -15,7 +13,7 @@ Save and Retrieve: Your notes are automatically saved in your browser's local st
 
 
 
-###Getting Started
+### Getting Started
 
 To use Lotion, follow these simple steps:
 
